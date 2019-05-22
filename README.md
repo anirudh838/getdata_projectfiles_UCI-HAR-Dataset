@@ -16,6 +16,7 @@
 If not already installed, be sure to install the following packages in R:
 * dplyr
 * data.table
+
 For installing packages
 install.packages(c("dplyr", "data.table"))
 
